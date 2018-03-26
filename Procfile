@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn klsnkv_blog.wsgi
